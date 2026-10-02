@@ -22,6 +22,18 @@ This makes subtle problems in curves, silhouettes, proportions, and surface flow
 - Depth-aware edit vertices and edges
 - X-Ray support
 
+## Blender Compatibility
+
+### Blender 4.2 – 5.2
+
+Download:
+
+`Viewport_Shrink_v1_3.zip`
+
+Install through:
+
+**Edit → Preferences → Extensions → Install from Disk**
+
 ### Legacy support: Blender 2.80 – 4.1
 
 Designed for compatibility with these versions. Please report version-specific issues.
@@ -86,6 +98,8 @@ Created and designed by **Choi Jung Woo**
 Maintained by **Choi.form**
 
 Instagram: [@choi.form](https://www.instagram.com/choi.form/)
+
+Website: [choiform.com](https://choiform.com/)
 
 ## License
 
