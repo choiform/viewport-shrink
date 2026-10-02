@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/1e64869d-7399-4180-9168-257609bbd423
 
 Download:
 
-[**Download Viewport Shrink v1.3 →**]`Viewport_Shrink_v1_3.zip`
+[**Download Viewport Shrink v1.3 →**]([YOUR_RELEASE_LINK](https://github.com/choiform/viewport-shrink/releases/latest))
 
 Install through:
 
