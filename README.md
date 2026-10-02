@@ -6,6 +6,12 @@ It allows you to visually compress the Blender viewport along the X, Y, or Z axi
 
 This makes subtle problems in curves, silhouettes, proportions, and surface flow easier to see while you continue working on the original model.
 
+
+
+https://github.com/user-attachments/assets/1e64869d-7399-4180-9168-257609bbd423
+
+
+
 ## Features
 
 - Non-destructive X / Y / Z viewport compression
