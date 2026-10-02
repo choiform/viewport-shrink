@@ -22,19 +22,10 @@ This makes subtle problems in curves, silhouettes, proportions, and surface flow
 - Depth-aware edit vertices and edges
 - X-Ray support
 
-## Blender Compatibility
+### Legacy support: Blender 2.80 – 4.1
 
-### Blender 4.2 – 5.2
-Download:
-
-`Viewport_Shrink_v1_3.zip`
-
-Install through:
-
-**Edit → Preferences → Extensions → Install from Disk**
-
-Legacy support: Blender 2.80 – 4.1
 Designed for compatibility with these versions. Please report version-specific issues.
+
 Download:
 
 `Viewport_Shrink_v1_3.py`
