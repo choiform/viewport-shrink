@@ -33,7 +33,8 @@ Install through:
 
 **Edit → Preferences → Extensions → Install from Disk**
 
-### Blender 2.80 – 4.1
+Legacy support: Blender 2.80 – 4.1
+Designed for compatibility with these versions. Please report version-specific issues.
 Download:
 
 `Viewport_Shrink_v1_3.py`
