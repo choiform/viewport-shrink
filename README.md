@@ -46,7 +46,7 @@ Designed for compatibility with these versions. Please report version-specific i
 
 Download:
 
-`Viewport_Shrink_v1_3.py`
+[**Download Viewport Shrink v1.3 →**](https://github.com/choiform/viewport-shrink/blob/main/Viewport_Shrink_v1_3.py)
 
 Install through:
 
